@@ -18,3 +18,5 @@
  * Yo check the status of wheather your local repo is connected to remote repo
  * >git remote -v
  */
+
+var number =10;
